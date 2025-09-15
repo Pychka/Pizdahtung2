@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "TestDokerGrpc\\TestDokerGrpc.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "Container (Dockerfile)"
+      },
+      {
+        "Path": "ClientsAPI\\ClientsAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "Container (Dockerfile)"
+      }
+    ]
+  }
+]

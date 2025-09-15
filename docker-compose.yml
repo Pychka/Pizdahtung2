@@ -1,0 +1,51 @@
+services:
+  redis:
+    container_name: redis
+    image: redis:7
+    ports:
+      - "6380:6379"
+    volumes:
+      - redis-data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+  test:
+    build:
+        context: ./TestDokerGrpc
+        dockerfile: Dockerfile
+    hostname: test
+    ports:
+      - "5000:5000"
+    environment:
+      - ASPNETCORE_URLS=http://+:5000
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Id=sa;Password=SpoofPasswrod;Database=SSSDB;Integrated Security=true;TrustServerCertificate=True
+      - Redis__ConnectionString=redis:6379,abortConnect=false,connectTimeout=5000
+    depends_on:
+      redis:
+        condition: service_healthy
+    networks:
+      app-network
+  clients:
+    build:
+        context: ./ClientsAPI
+        dockerfile: Dockerfile
+    hostname: clients
+    ports:
+      - "5001:5001"
+    environment:
+      - ASPNETCORE_URLS=http://+:5001
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Id=sa;Password=SpoofPasswrod;Database=SSSDB;Integrated Security=true;TrustServerCertificate=True
+      - Redis__ConnectionString=redis:6379,abortConnect=false,connectTimeout=5000
+    depends_on:
+      redis:
+        condition: service_healthy
+    networks:
+      app-network
+  
+volumes:
+  redis-data:
+networks:
+  app-network:
+    driver: bridge

@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2063E14-F7BC-46F5-BB36-658F31B1A9C1}|ClientsAPI\\ClientsAPI.csproj|c:\\users\\nimda\\desktop\\spoofproject\\testdokergrpc\\clientsapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2063E14-F7BC-46F5-BB36-658F31B1A9C1}|ClientsAPI\\ClientsAPI.csproj|solutionrelative:clientsapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC488A1-1860-42F9-A2F8-034467D20CDD}|TestDokerGrpc\\TestDokerGrpc.csproj|c:\\users\\nimda\\desktop\\spoofproject\\testdokergrpc\\testdokergrpc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC488A1-1860-42F9-A2F8-034467D20CDD}|TestDokerGrpc\\TestDokerGrpc.csproj|solutionrelative:testdokergrpc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC488A1-1860-42F9-A2F8-034467D20CDD}|TestDokerGrpc\\TestDokerGrpc.csproj|c:\\users\\nimda\\desktop\\spoofproject\\testdokergrpc\\testdokergrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC488A1-1860-42F9-A2F8-034467D20CDD}|TestDokerGrpc\\TestDokerGrpc.csproj|solutionrelative:testdokergrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2063E14-F7BC-46F5-BB36-658F31B1A9C1}|ClientsAPI\\ClientsAPI.csproj|c:\\users\\nimda\\desktop\\spoofproject\\testdokergrpc\\clientsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2063E14-F7BC-46F5-BB36-658F31B1A9C1}|ClientsAPI\\ClientsAPI.csproj|solutionrelative:clientsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2063E14-F7BC-46F5-BB36-658F31B1A9C1}|ClientsAPI\\ClientsAPI.csproj|c:\\users\\nimda\\desktop\\spoofproject\\testdokergrpc\\clientsapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B2063E14-F7BC-46F5-BB36-658F31B1A9C1}|ClientsAPI\\ClientsAPI.csproj|solutionrelative:clientsapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC488A1-1860-42F9-A2F8-034467D20CDD}|TestDokerGrpc\\TestDokerGrpc.csproj|c:\\users\\nimda\\desktop\\spoofproject\\testdokergrpc\\testdokergrpc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DC488A1-1860-42F9-A2F8-034467D20CDD}|TestDokerGrpc\\TestDokerGrpc.csproj|solutionrelative:testdokergrpc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC488A1-1860-42F9-A2F8-034467D20CDD}|TestDokerGrpc\\TestDokerGrpc.csproj|c:\\users\\nimda\\desktop\\spoofproject\\testdokergrpc\\testdokergrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DC488A1-1860-42F9-A2F8-034467D20CDD}|TestDokerGrpc\\TestDokerGrpc.csproj|solutionrelative:testdokergrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimda\\AppData\\Local\\SourceServer\\22d82ebc24660e1c760b8805ce0d8cec65c17a8e58b60d563961f695d54d0e6b\\src\\StackExchange.Redis\\ConfigurationOptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimda\\AppData\\Local\\SourceServer\\ba3735f9909dfb7fbd9f5dd13ee2708f3d10923e44d8d28d51c00abbaccc1970\\src\\StackExchange.Redis\\ConnectionMultiplexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2063E14-F7BC-46F5-BB36-658F31B1A9C1}|ClientsAPI\\ClientsAPI.csproj|c:\\users\\nimda\\desktop\\spoofproject\\testdokergrpc\\clientsapi\\clientsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2063E14-F7BC-46F5-BB36-658F31B1A9C1}|ClientsAPI\\ClientsAPI.csproj|solutionrelative:clientsapi\\clientsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC488A1-1860-42F9-A2F8-034467D20CDD}|TestDokerGrpc\\TestDokerGrpc.csproj|c:\\users\\nimda\\desktop\\spoofproject\\testdokergrpc\\testdokergrpc\\testdokergrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DC488A1-1860-42F9-A2F8-034467D20CDD}|TestDokerGrpc\\TestDokerGrpc.csproj|solutionrelative:testdokergrpc\\testdokergrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC488A1-1860-42F9-A2F8-034467D20CDD}|TestDokerGrpc\\TestDokerGrpc.csproj|c:\\users\\nimda\\desktop\\spoofproject\\testdokergrpc\\testdokergrpc\\testdokergrpc.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8DC488A1-1860-42F9-A2F8-034467D20CDD}|TestDokerGrpc\\TestDokerGrpc.csproj|solutionrelative:testdokergrpc\\testdokergrpc.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\ClientsAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "ClientsAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\ClientsAPI\\Dockerfile",
+              "RelativeToolTip": "ClientsAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-15T18:15:26.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\TestDokerGrpc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TestDokerGrpc\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\TestDokerGrpc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TestDokerGrpc\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T16:54:24.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigurationOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Nimda\\AppData\\Local\\SourceServer\\22d82ebc24660e1c760b8805ce0d8cec65c17a8e58b60d563961f695d54d0e6b\\src\\StackExchange.Redis\\ConfigurationOptions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\22d82ebc24660e1c760b8805ce0d8cec65c17a8e58b60d563961f695d54d0e6b\\src\\StackExchange.Redis\\ConfigurationOptions.cs",
+              "ToolTip": "C:\\Users\\Nimda\\AppData\\Local\\SourceServer\\22d82ebc24660e1c760b8805ce0d8cec65c17a8e58b60d563961f695d54d0e6b\\src\\StackExchange.Redis\\ConfigurationOptions.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\22d82ebc24660e1c760b8805ce0d8cec65c17a8e58b60d563961f695d54d0e6b\\src\\StackExchange.Redis\\ConfigurationOptions.cs",
+              "ViewState": "AgIAAMgDAAAAAAAAAAAqwN4DAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T19:34:33.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\TestDokerGrpc\\Dockerfile",
+              "RelativeDocumentMoniker": "TestDokerGrpc\\Dockerfile",
+              "ToolTip": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\TestDokerGrpc\\Dockerfile",
+              "RelativeToolTip": "TestDokerGrpc\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-13T18:59:50.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConnectionMultiplexer.cs",
+              "DocumentMoniker": "C:\\Users\\Nimda\\AppData\\Local\\SourceServer\\ba3735f9909dfb7fbd9f5dd13ee2708f3d10923e44d8d28d51c00abbaccc1970\\src\\StackExchange.Redis\\ConnectionMultiplexer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\ba3735f9909dfb7fbd9f5dd13ee2708f3d10923e44d8d28d51c00abbaccc1970\\src\\StackExchange.Redis\\ConnectionMultiplexer.cs",
+              "ToolTip": "C:\\Users\\Nimda\\AppData\\Local\\SourceServer\\ba3735f9909dfb7fbd9f5dd13ee2708f3d10923e44d8d28d51c00abbaccc1970\\src\\StackExchange.Redis\\ConnectionMultiplexer.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\ba3735f9909dfb7fbd9f5dd13ee2708f3d10923e44d8d28d51c00abbaccc1970\\src\\StackExchange.Redis\\ConnectionMultiplexer.cs",
+              "ViewState": "AgIAAJoCAAAAAAAAAAAqwLACAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T18:52:49.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestDokerGrpc.csproj",
+              "DocumentMoniker": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\TestDokerGrpc\\TestDokerGrpc.csproj",
+              "RelativeDocumentMoniker": "TestDokerGrpc\\TestDokerGrpc.csproj",
+              "ToolTip": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\TestDokerGrpc\\TestDokerGrpc.csproj",
+              "RelativeToolTip": "TestDokerGrpc\\TestDokerGrpc.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-13T18:50:36.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientsAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\ClientsAPI\\ClientsAPI.csproj",
+              "RelativeDocumentMoniker": "ClientsAPI\\ClientsAPI.csproj",
+              "ToolTip": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\ClientsAPI\\ClientsAPI.csproj",
+              "RelativeToolTip": "ClientsAPI\\ClientsAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-13T18:50:20.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestDokerGrpc.http",
+              "DocumentMoniker": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\TestDokerGrpc\\TestDokerGrpc.http",
+              "RelativeDocumentMoniker": "TestDokerGrpc\\TestDokerGrpc.http",
+              "ToolTip": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\TestDokerGrpc\\TestDokerGrpc.http",
+              "RelativeToolTip": "TestDokerGrpc\\TestDokerGrpc.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-13T18:25:32.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\ClientsAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ClientsAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\ClientsAPI\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "ClientsAPI\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T18:16:45.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\TestDokerGrpc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TestDokerGrpc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\TestDokerGrpc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TestDokerGrpc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T18:15:40.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\ClientsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ClientsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\ClientsAPI\\Program.cs*",
+              "RelativeToolTip": "ClientsAPI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T18:02:46.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\TestDokerGrpc\\Program.cs",
+              "RelativeDocumentMoniker": "TestDokerGrpc\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimda\\Desktop\\SpoofProject\\TestDokerGrpc\\TestDokerGrpc\\Program.cs*",
+              "RelativeToolTip": "TestDokerGrpc\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:55:39.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
